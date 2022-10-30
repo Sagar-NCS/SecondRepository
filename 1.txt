@@ -4,3 +4,5 @@ new line added
 Add Changes for Testing Branch
 Edit Branch from Git 
 This Example of Merge Branches
+
+New updates are available
